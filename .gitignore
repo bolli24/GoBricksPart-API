@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# raw API output from gobricker.py
+api_request_raw.json

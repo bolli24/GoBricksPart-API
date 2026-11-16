@@ -4,7 +4,10 @@
 221,47,12,Bright Purple,Dark Pink
 124,71,13,Bright Reddish Violet,Magenta
 154,59,14,New Dark Red,Dark Red
+223,56,17,Light Pink,Rose Pink
+353,220,18,Coral,Coral
 106,4,21,Bright Orange,Orange
+3,33,29,Light Yellow,Light Yellow
 24,3,30,Bright Yellow,Yellow
 5,2,31,Brick Yellow,Tan
 283,90,32,Light Nougat,Light Flesh
@@ -12,8 +15,9 @@
 138,69,34,Sand Yellow,Dark Tan
 297,115,35,Warm Gold,Pearl Gold
 191,110,36,Flame Yellowish Orange,Bright Light Orange
+18,28,38,Nougat,Nougat
 28,6,40,Dark Green,Green
-,,41,,
+,,41,,Army Green
 119,34,42,Bright Yellowish Green,Lime
 37,36,43,Bright Green,Bright Green
 326,158,44,Spring Yellowish Green,Yellowish Green
@@ -52,4 +56,4 @@
 126,51,160,Trans Bright Bluish Violet,Trans Purple
 111,13,170,Trans Brown,Trans Black
 40,12,180,Transparent,Trans Clear
-107,39,xxx,Teal,Dark Turquoise
+107,39,243,Bright Bluish Green,Dark Turquoise
